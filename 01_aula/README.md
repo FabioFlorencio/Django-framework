@@ -1,5 +1,15 @@
 # 📚 Estudos de Python com o framework Django
 
+- [📚 Estudos de Python com o framework Django](#-estudos-de-python-com-o-framework-django)
+  - [👣 Primeiros passos](#-primeiros-passos)
+    - [🔧 Instalação do Django](#-instalação-do-django)
+    - [🔍 Verifique a instalação do Django](#-verifique-a-instalação-do-django)
+    - [🤖 Instalação do Virtualenv (opcional, se ainda não estiver instalado):](#-instalação-do-virtualenv-opcional-se-ainda-não-estiver-instalado)
+    - [🔌 Ativação do ambiente virtual](#-ativação-do-ambiente-virtual)
+  - [🏗️ Crie um projeto Django](#️-crie-um-projeto-django)
+    - [🚀 Execução do servidor de desenvolvimento:](#-execução-do-servidor-de-desenvolvimento)
+
+
 ## 👣 Primeiros passos
 
 Verifique se o Python está instalado: Antes de instalar o Django, verifique se o Python está instalado no seu sistema. Você pode verificar digitando python --version no terminal. Se não estiver instalado, você precisará baixá-lo e instalá-lo a partir do site oficial do [🐍Python](https://www.python.org/downloads/).
@@ -59,19 +69,6 @@ python manage.py runserver
 ```
 🚨 O arquivo manage.py deve estar na raiz do seu projeto
 
-- [📚 Estudos de Python com o framework Django](#-estudos-de-python-com-o-framework-django)
-  - [👣 Primeiros passos](#-primeiros-passos)
-    - [🔧 Instalação do Django](#-instalação-do-django)
-    - [🔍 Verifique a instalação do Django](#-verifique-a-instalação-do-django)
-    - [🤖 Instalação do Virtualenv (opcional, se ainda não estiver instalado):](#-instalação-do-virtualenv-opcional-se-ainda-não-estiver-instalado)
-    - [🔌 Ativação do ambiente virtual](#-ativação-do-ambiente-virtual)
-  - [🏗️ Crie um projeto Django](#️-crie-um-projeto-django)
-    - [🚀 Execução do servidor de desenvolvimento:](#-execução-do-servidor-de-desenvolvimento)
 
-
-```bash
-
-   
-```
 
 
