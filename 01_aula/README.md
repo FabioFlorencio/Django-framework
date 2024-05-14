@@ -70,7 +70,9 @@ python manage.py runserver
    
 ```
 
-![img-promtpt]()
+![img-promtpt](https://github.com/FabioFlorencio/Django-framework/blob/master/img/img-prompt-runserver.png)
+
+![site](https://github.com/FabioFlorencio/Django-framework/blob/master/img/img-servidor-ativo.png)
 
 
 
