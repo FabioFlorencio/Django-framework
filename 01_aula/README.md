@@ -76,7 +76,8 @@ python manage.py runserver
 - Depois de iniciar o servidor de desenvolvimento com o comando python manage.py runserver, você pode acessar o seu projeto Django no seu navegador da web. Para fazer isso, siga estes passos:
 
 
-1. Pressione a tecla Ctrl no seu teclado e, ao mesmo tempo, clique com o botão esquerdo do mouse no endereço http://127.0.0.1:8000/ no link exibido no terminal ou na barra de endereço do navegador, digite http://127.0.0.1:8000/.
+1. Pressione a tecla Ctrl no seu teclado e, ao mesmo tempo, clique com o botão esquerdo do mouse no endereço http://127.0.0.1:8000/ no link exibido no terminal.
+2. Ou na barra de endereço do navegador, digite http://127.0.0.1:8000/.
 
 
 ![img-promtpt](https://github.com/FabioFlorencio/Django-framework/blob/master/img/img-prompt-runserver.png)
